@@ -1,3 +1,18 @@
+# Why a Take-Home Test
+
+We took this test from another company (Inato) to prove our candidates this is not work we could use in our codebase.
+
+We believe our tech team must have a strong common culture.
+
+In order to asses we work the same way we need to discuss the practice of the candidate.
+
+In order to discuss the practice of the candidate, we need code, examples. A pull request is the best piece of work we found.
+
+This exercise leads most of the time to an interview. Unless the level is not what we expected, we will send you a detailled response about what we judged is not acceptable in our team.
+
+We hope the candidate will take pleasure doing this exercise, from the rookie to the senior.
+We believe this exercise is a kind of [kata](http://codekata.com/), a simple problem that allows someone to explore deep engineering concepts.
+
 # Inato Take-Home Test Specification
 
 You are a new developer in the Inato team, and your first job is to add a feature to an old existing piece of code.
