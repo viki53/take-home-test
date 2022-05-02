@@ -24,6 +24,9 @@ export class Drug {
           return -1;
         }
 
+      case "Dafalgan":
+        return 2;
+
       default:
         return 1;
     }
